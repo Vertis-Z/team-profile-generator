@@ -28,7 +28,7 @@ Upon launching the app, the user is asked to describe the first member of their 
 If you wish to run a test on the application perform an npm test to see if everything passes.
 
 ## Demo Video
-https://user-images.githubusercontent.com/48894365/172263891-fb50b9b3-1663-47f1-a93a-4da6efa6864b.mp4
+https://user-images.githubusercontent.com/48894365/172264162-67762e54-6595-49c0-8b1a-ab6558a14df2.mp4
 
 ## License 
 Licensed under the MIT License. Copyright © 2022
