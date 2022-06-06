@@ -14,6 +14,7 @@ The Team Profile Generator is a command-line-input application run in Node that 
   - [Installation](#installation)
   - [Usage](#usage)
   - [Tests](#tests)
+  - [Demo Video](#demo-video)
   - [License](#license)
   - [Questions](#questions)
 
@@ -26,10 +27,12 @@ Upon launching the app, the user is asked to describe the first member of their 
 ## Tests
 If you wish to run a test on the application perform an npm test to see if everything passes.
 
+## Demo Video
+https://user-images.githubusercontent.com/48894365/172200889-38a9c79c-3752-4910-b2ec-e5db960b0bd4.mp4
+
 ## License 
 Licensed under the MIT License. Copyright © 2022
 
 ## Questions
 *For any additional information find me at* 
-
 GitHub: [@Vertis-Z](https://github.com/Vertis-Z/)
